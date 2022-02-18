@@ -1,4 +1,4 @@
-# ML-DL-Book-Summary
+# ML-DL-OnlineCourses
 
 Summary of online AI&DS course
 
